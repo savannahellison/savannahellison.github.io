@@ -24,10 +24,10 @@ repository               : "savannahellison/savannahellison.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Savannah Ellison"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Student"
+  location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "sellison8@gatech.edu" 
