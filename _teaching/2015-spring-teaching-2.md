@@ -1,11 +1,12 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "TA"
+type: ""
 permalink: /teaching/teaching-assistant
 venue: "Georgia Institute of Technology, School of Economics"
-
 location: "Atlanta, GA"
+order: 2
+nolink: true
 excerpt: |
   - **ECON 4340: Industrial Organization** — Fall 2022, Spring 2023
   - **ECON 4510: Health Economics** — Spring 2023
