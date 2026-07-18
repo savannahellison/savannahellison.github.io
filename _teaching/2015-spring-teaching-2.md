@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
+type: "TA"
+permalink: /teaching/teaching-assistant
+venue: "Georgia Institute of Technology, School of Economics"
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+location: "Atlanta, GA"
+excerpt: |
+  - **ECON 4340: Industrial Organization** — Fall 2022, Spring 2023
+  - **ECON 4510: Health Economics** — Spring 2023
+  - **ECON 2106: Principles of Microeconomics** — Summer 2023, Spring 2024, Spring 2025
+  - **ECON 4401: Behavioral Economics** — Fall 2023
+  - **ECON 7004: PhD Math for Economists** — Fall 2023
