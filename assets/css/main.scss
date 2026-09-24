@@ -41,3 +41,87 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Custom two-column homepage */
+
+.home-main {
+  max-width: 1180px !important;
+  margin-top: 3rem !important;
+}
+
+.home-profile {
+  display: grid;
+  grid-template-columns: minmax(280px, 340px) minmax(0, 1fr);
+  gap: clamp(3rem, 7vw, 7rem);
+  align-items: start;
+}
+
+.home-profile__identity {
+  text-align: center;
+  padding-right: clamp(2rem, 4vw, 4rem);
+  border-right: 1px solid var(--global-border-color);
+}
+
+.home-profile__photo {
+  display: block;
+  width: 100%;
+  max-width: 340px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 4px;
+  margin: 0 auto 1.25rem;
+}
+
+.home-profile__identity h1 {
+  margin: 0 0 0.35rem;
+  font-size: 2rem;
+}
+
+.home-profile__subtitle {
+  margin-bottom: 1.25rem;
+  color: var(--global-text-color-light);
+}
+
+.home-profile__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.home-profile__links a {
+  padding: 0.35rem 0.65rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-profile__links a:hover {
+  color: var(--global-link-color-hover);
+  border-color: var(--global-link-color-hover);
+}
+
+.home-profile__content h2:first-child {
+  margin-top: 0.25rem;
+}
+
+.home-profile__content h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 800px) {
+  .home-profile {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .home-profile__identity {
+    padding-right: 0;
+    border-right: none;
+  }
+
+  .home-profile__photo {
+    max-width: 300px;
+  }
+}
