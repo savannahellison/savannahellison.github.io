@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I am an applied microeconomist specializing in health economics. I use large administrative datasets and quasi-experimental research designs to study how policy changes and health care innovations affect reproductive health outcomes and risky behaviors. I am on the 2026–2027 academic job market.
+I am an applied microeconomist specializing in health economics. I use large administrative datasets and quasi-experimental research designs to study how policy changes and health care innovations affect reproductive health outcomes and risky behaviors. I am on the 2026–2027 job market.
 ## Research Interests
 
 - Health economics
