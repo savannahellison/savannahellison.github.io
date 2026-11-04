@@ -14,7 +14,6 @@ I am an applied microeconomist specializing in health economics. I use large adm
 
 - Health economics
 - Applied microeconomics
-- Gender economics
 
 ## Education
 
